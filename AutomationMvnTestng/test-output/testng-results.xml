@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28664" started-at="2020-07-20T00:15:00Z" finished-at="2020-07-20T00:15:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28664" started-at="2020-07-20T00:15:00Z" finished-at="2020-07-20T00:15:29Z">
+      <class name="testcases.TC003">
+        <test-method status="PASS" signature="meth()[pri:0, instance:testcases.TC003@5d740a0f]" name="meth" duration-ms="12585" started-at="2020-07-19T20:15:00Z" finished-at="2020-07-19T20:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meth -->
+      </class> <!-- testcases.TC003 -->
+      <class name="testcases.TC002">
+        <test-method status="PASS" signature="meth()[pri:0, instance:testcases.TC002@2893de87]" name="meth" duration-ms="9985" started-at="2020-07-19T20:15:13Z" finished-at="2020-07-19T20:15:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meth -->
+      </class> <!-- testcases.TC002 -->
+      <class name="testcases.TC001">
+        <test-method status="PASS" signature="meth()[pri:0, instance:testcases.TC001@55ca8de8]" name="meth" duration-ms="5957" started-at="2020-07-19T20:15:23Z" finished-at="2020-07-19T20:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meth -->
+      </class> <!-- testcases.TC001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
