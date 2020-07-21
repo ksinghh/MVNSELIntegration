@@ -12,7 +12,7 @@ public class TC002 {
 		WebDriver driver=new ChromeDriver();
 		 
 		// Open Google
-		driver.get("http://www.google.com");
+		driver.get("http://www.yahoo.com");
 		 
 		// Close browser
 		driver.close();	

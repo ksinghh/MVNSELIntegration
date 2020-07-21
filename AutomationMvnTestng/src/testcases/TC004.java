@@ -12,7 +12,7 @@ public class TC004 {
 		WebDriver driver=new ChromeDriver();
 		 
 		// Open Google
-		driver.get("http://www.google.com");
+		driver.get("http://www.facebook.com");
 		 
 		// Close browser
 		driver.close();	
